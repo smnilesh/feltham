@@ -1,0 +1,887 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-11 19:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bt_cost_calculator.php:21 bt_cost_calculator.php:1163
+#: bt_cost_calculator.php:1215 bt_cost_calculator.php:1341
+msgid "Cost Calculator"
+msgstr ""
+
+#: bt_cost_calculator.php:22
+msgid "Cost Calculators"
+msgstr ""
+
+#: bt_cost_calculator.php:143 bt_cost_calculator.php:315
+#: bt_cost_calculator.php:1081 bt_cost_calculator.php:1111
+#: bt_cost_calculator.php:1122 bt_cost_calculator.php:1135
+#: bt_cost_calculator.php:1150 bt_cost_calculator.php:1361
+#: bt_cost_calculator.php:1375 bt_cost_calculator.php:1391
+#: bt_cost_calculator.php:1409
+msgid "Name"
+msgstr ""
+
+#: bt_cost_calculator.php:144 bt_cost_calculator.php:316
+msgid "Email"
+msgstr ""
+
+#: bt_cost_calculator.php:145 bt_cost_calculator.php:317
+msgid "Phone"
+msgstr ""
+
+#: bt_cost_calculator.php:146 bt_cost_calculator.php:318
+msgid "Address"
+msgstr ""
+
+#: bt_cost_calculator.php:149 bt_cost_calculator.php:331
+msgid "Message"
+msgstr ""
+
+#: bt_cost_calculator.php:202 bt_cost_calculator.php:267
+msgid "Next"
+msgstr ""
+
+#: bt_cost_calculator.php:205 bt_cost_calculator.php:1067
+msgid "Preferred Service Date"
+msgstr ""
+
+#: bt_cost_calculator.php:206 bt_cost_calculator.php:1066
+msgid "Preferred Service Time"
+msgstr ""
+
+#: bt_cost_calculator.php:207 bt_cost_calculator.php:1045
+msgid "Total"
+msgstr ""
+
+#: bt_cost_calculator.php:280
+msgid "Please wait..."
+msgstr ""
+
+#: bt_cost_calculator.php:280
+msgid "Thank you, we will contact you soon!"
+msgstr ""
+
+#: bt_cost_calculator.php:280
+msgid "Error! Please try again later."
+msgstr ""
+
+#: bt_cost_calculator.php:280
+msgid "Please fill out all required fields."
+msgstr ""
+
+#: bt_cost_calculator.php:335
+msgid "Email me quote!"
+msgstr ""
+
+#: bt_cost_calculator.php:344 bold-builder-light/bold-builder-light.php:89
+#: bold-builder-light/bold-builder-light.php:190
+msgid "Submit"
+msgstr ""
+
+#: bt_cost_calculator.php:618
+msgid "Select..."
+msgstr ""
+
+#: bt_cost_calculator.php:1034
+msgid "No contact form"
+msgstr ""
+
+#: bt_cost_calculator.php:1039
+msgid "No Contact Form found"
+msgstr ""
+
+#: bt_cost_calculator.php:1044
+msgid "Accent Color"
+msgstr ""
+
+#: bt_cost_calculator.php:1045
+msgid "Total Title"
+msgstr ""
+
+#: bt_cost_calculator.php:1046
+msgid "Currency"
+msgstr ""
+
+#: bt_cost_calculator.php:1047
+msgid "Currency After Total"
+msgstr ""
+
+#: bt_cost_calculator.php:1048
+msgid "Display Next Button and Contact Form"
+msgstr ""
+
+#: bt_cost_calculator.php:1048 bt_cost_calculator.php:1049
+#: bt_cost_calculator.php:1050 bt_cost_calculator.php:1051
+#: bt_cost_calculator.php:1052 bt_cost_calculator.php:1053
+#: bt_cost_calculator.php:1054 bt_cost_calculator.php:1055
+#: bt_cost_calculator.php:1056 bt_cost_calculator.php:1057
+#: bt_cost_calculator.php:1058 bt_cost_calculator.php:1059
+#: bt_cost_calculator.php:1060 bt_cost_calculator.php:1061
+#: bt_cost_calculator.php:1062 bt_cost_calculator.php:1063
+#: bt_cost_calculator.php:1064 bt_cost_calculator.php:1065
+#: bt_cost_calculator.php:1066 bt_cost_calculator.php:1067
+msgid "Contact-Form"
+msgstr ""
+
+#: bt_cost_calculator.php:1049
+msgid "Next Button Text"
+msgstr ""
+
+#: bt_cost_calculator.php:1049
+msgid "Leave blank to use default value (Next)"
+msgstr ""
+
+#: bt_cost_calculator.php:1050
+msgid "Contact form 7 Id"
+msgstr ""
+
+#: bt_cost_calculator.php:1050
+msgid "Leave blank to use default contact form (settings below)"
+msgstr ""
+
+#: bt_cost_calculator.php:1051
+msgid "Admin Email"
+msgstr ""
+
+#: bt_cost_calculator.php:1052
+msgid "Email Subject"
+msgstr ""
+
+#: bt_cost_calculator.php:1053
+msgid "Send Email to Client"
+msgstr ""
+
+#: bt_cost_calculator.php:1054
+msgid "Email Confirmation"
+msgstr ""
+
+#: bt_cost_calculator.php:1055
+msgid "Optional redirection URL for confirmation"
+msgstr ""
+
+#: bt_cost_calculator.php:1055
+msgid "User will be redirected to this URL after submit"
+msgstr ""
+
+#: bt_cost_calculator.php:1056
+msgid "Mandatory Name"
+msgstr ""
+
+#: bt_cost_calculator.php:1057
+msgid "Mandatory Email"
+msgstr ""
+
+#: bt_cost_calculator.php:1058
+msgid "Mandatory Phone"
+msgstr ""
+
+#: bt_cost_calculator.php:1059
+msgid "Mandatory Address"
+msgstr ""
+
+#: bt_cost_calculator.php:1060
+msgid "Mandatory Message"
+msgstr ""
+
+#: bt_cost_calculator.php:1061
+msgid "Show Date/Time Inputs"
+msgstr ""
+
+#: bt_cost_calculator.php:1062
+msgid "Mandatory Preferred Date"
+msgstr ""
+
+#: bt_cost_calculator.php:1063
+msgid "Mandatory Preferred Time"
+msgstr ""
+
+#: bt_cost_calculator.php:1064
+msgid "Time Input Start"
+msgstr ""
+
+#: bt_cost_calculator.php:1065
+msgid "Time Input End"
+msgstr ""
+
+#: bt_cost_calculator.php:1066
+msgid "Time Input Title"
+msgstr ""
+
+#: bt_cost_calculator.php:1067
+msgid "Date Input Title"
+msgstr ""
+
+#: bt_cost_calculator.php:1069
+msgid "reCAPTCHA Site key"
+msgstr ""
+
+#: bt_cost_calculator.php:1069 bt_cost_calculator.php:1070
+msgid "reCAPTCHA"
+msgstr ""
+
+#: bt_cost_calculator.php:1070
+msgid "reCAPTCHA Secret key"
+msgstr ""
+
+#: bt_cost_calculator.php:1072
+msgid "Your PayPal account email address"
+msgstr ""
+
+#: bt_cost_calculator.php:1072 bt_cost_calculator.php:1073
+#: bt_cost_calculator.php:1074
+msgid "PayPal"
+msgstr ""
+
+#: bt_cost_calculator.php:1073
+msgid "Shopping cart name"
+msgstr ""
+
+#: bt_cost_calculator.php:1074
+msgid "Currency code (USD, EUR, GBP, CAD, JPY)"
+msgstr ""
+
+#: bt_cost_calculator.php:1076 bt_cost_calculator.php:1096
+#: bt_cost_calculator.php:1106 bt_cost_calculator.php:1117
+#: bt_cost_calculator.php:1130 bt_cost_calculator.php:1145
+#: bt_cost_calculator.php:1157 bt_cost_calculator.php:1353
+#: bt_cost_calculator.php:1367 bt_cost_calculator.php:1383
+#: bt_cost_calculator.php:1401 bt_cost_calculator.php:1416
+#: bt_cost_calculator.php:1462
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: bt_cost_calculator.php:1076 bt_cost_calculator.php:1077
+#: bt_cost_calculator.php:1095 bt_cost_calculator.php:1096
+#: bt_cost_calculator.php:1097 bt_cost_calculator.php:1105
+#: bt_cost_calculator.php:1106 bt_cost_calculator.php:1107
+#: bt_cost_calculator.php:1116 bt_cost_calculator.php:1117
+#: bt_cost_calculator.php:1118 bt_cost_calculator.php:1129
+#: bt_cost_calculator.php:1130 bt_cost_calculator.php:1131
+#: bt_cost_calculator.php:1144 bt_cost_calculator.php:1145
+#: bt_cost_calculator.php:1146 bt_cost_calculator.php:1156
+#: bt_cost_calculator.php:1157 bt_cost_calculator.php:1158
+#: bt_cost_calculator.php:1352 bt_cost_calculator.php:1353
+#: bt_cost_calculator.php:1354 bt_cost_calculator.php:1366
+#: bt_cost_calculator.php:1367 bt_cost_calculator.php:1368
+#: bt_cost_calculator.php:1382 bt_cost_calculator.php:1383
+#: bt_cost_calculator.php:1384 bt_cost_calculator.php:1400
+#: bt_cost_calculator.php:1401 bt_cost_calculator.php:1402
+#: bt_cost_calculator.php:1415 bt_cost_calculator.php:1416
+#: bt_cost_calculator.php:1417 bt_cost_calculator.php:1461
+#: bt_cost_calculator.php:1462 bt_cost_calculator.php:1463
+msgid "Design"
+msgstr ""
+
+#: bt_cost_calculator.php:1077 bt_cost_calculator.php:1097
+#: bt_cost_calculator.php:1107 bt_cost_calculator.php:1118
+#: bt_cost_calculator.php:1131 bt_cost_calculator.php:1146
+#: bt_cost_calculator.php:1158 bt_cost_calculator.php:1354
+#: bt_cost_calculator.php:1368 bt_cost_calculator.php:1384
+#: bt_cost_calculator.php:1402 bt_cost_calculator.php:1417
+#: bt_cost_calculator.php:1463
+msgid "Inline Style"
+msgstr ""
+
+#: bt_cost_calculator.php:1082 bt_cost_calculator.php:1112
+#: bt_cost_calculator.php:1123 bt_cost_calculator.php:1136
+#: bt_cost_calculator.php:1151 bt_cost_calculator.php:1362
+#: bt_cost_calculator.php:1376 bt_cost_calculator.php:1392
+#: bt_cost_calculator.php:1410
+msgid "Description"
+msgstr ""
+
+#: bt_cost_calculator.php:1083
+msgid "Input Type"
+msgstr ""
+
+#: bt_cost_calculator.php:1085
+msgid "Text"
+msgstr ""
+
+#: bt_cost_calculator.php:1086 bold-builder-light/bold-builder-light.php:88
+msgid "Select"
+msgstr ""
+
+#: bt_cost_calculator.php:1087
+msgid "Slider"
+msgstr ""
+
+#: bt_cost_calculator.php:1088
+msgid "Switch"
+msgstr ""
+
+#: bt_cost_calculator.php:1090 bt_cost_calculator.php:1124
+#: bt_cost_calculator.php:1377
+msgid "Value"
+msgstr ""
+
+#: bt_cost_calculator.php:1090
+msgid ""
+"Unit_value for Text / name;value;description separated by new line for "
+"Select / min;max;step;unit_value;offset_value for Slider / value_off;"
+"value_on for Switch"
+msgstr ""
+
+#: bt_cost_calculator.php:1091
+msgid "Initial value or select list index"
+msgstr ""
+
+#: bt_cost_calculator.php:1091
+msgid ""
+"Value for Text / index for Select ( index 0 for Select... item in list ) / "
+"value between min and max values for Slider / off or on value for Switch"
+msgstr ""
+
+#: bt_cost_calculator.php:1092
+msgid "Images for Select input type"
+msgstr ""
+
+#: bt_cost_calculator.php:1093 bt_cost_calculator.php:1127
+#: bt_cost_calculator.php:1380
+msgid "Images Height in px"
+msgstr ""
+
+#: bt_cost_calculator.php:1094 bt_cost_calculator.php:1115
+#: bt_cost_calculator.php:1128 bt_cost_calculator.php:1143
+#: bt_cost_calculator.php:1155 bt_cost_calculator.php:1365
+#: bt_cost_calculator.php:1381 bt_cost_calculator.php:1399
+#: bt_cost_calculator.php:1414
+msgid "Change Event Condition"
+msgstr ""
+
+#: bt_cost_calculator.php:1094 bt_cost_calculator.php:1115
+#: bt_cost_calculator.php:1128 bt_cost_calculator.php:1143
+#: bt_cost_calculator.php:1155 bt_cost_calculator.php:1365
+#: bt_cost_calculator.php:1381 bt_cost_calculator.php:1399
+#: bt_cost_calculator.php:1414
+msgid ""
+"Clause operator (e.g. ==0 or >0);target element id;action (e.g. fadeTo"
+"('slow',0.2));lock target (lock/unlock) separated by new line"
+msgstr ""
+
+#: bt_cost_calculator.php:1095 bt_cost_calculator.php:1105
+#: bt_cost_calculator.php:1116 bt_cost_calculator.php:1129
+#: bt_cost_calculator.php:1144 bt_cost_calculator.php:1156
+#: bt_cost_calculator.php:1352 bt_cost_calculator.php:1366
+#: bt_cost_calculator.php:1382 bt_cost_calculator.php:1400
+#: bt_cost_calculator.php:1415 bt_cost_calculator.php:1461
+msgid "Custom Id Attribute"
+msgstr ""
+
+#: bt_cost_calculator.php:1103 bt_cost_calculator.php:1350
+msgid "JS pseudo code"
+msgstr ""
+
+#: bt_cost_calculator.php:1103 bt_cost_calculator.php:1350
+msgid ""
+"$1, $2, etc. can be used to reference values of items inside this group; "
+"always use return to return the value"
+msgstr ""
+
+#: bt_cost_calculator.php:1104 bt_cost_calculator.php:1351
+msgid "PayPal Label"
+msgstr ""
+
+#: bt_cost_calculator.php:1104 bt_cost_calculator.php:1351
+msgid ""
+"If label is not entered, this group will not be included in PayPal payment"
+msgstr ""
+
+#: bt_cost_calculator.php:1113 bt_cost_calculator.php:1140
+#: bt_cost_calculator.php:1363 bt_cost_calculator.php:1396
+msgid "Unit"
+msgstr ""
+
+#: bt_cost_calculator.php:1113 bt_cost_calculator.php:1140
+#: bt_cost_calculator.php:1363 bt_cost_calculator.php:1396
+msgid "Unit value"
+msgstr ""
+
+#: bt_cost_calculator.php:1114 bt_cost_calculator.php:1142
+#: bt_cost_calculator.php:1154 bt_cost_calculator.php:1364
+#: bt_cost_calculator.php:1398 bt_cost_calculator.php:1413
+msgid "Initial value"
+msgstr ""
+
+#: bt_cost_calculator.php:1124 bt_cost_calculator.php:1377
+msgid "name;value;description separated by new line"
+msgstr ""
+
+#: bt_cost_calculator.php:1125 bt_cost_calculator.php:1378
+msgid "Initial select list index"
+msgstr ""
+
+#: bt_cost_calculator.php:1125 bt_cost_calculator.php:1378
+msgid "Initial selected index ( index 0 for Select... item in list )"
+msgstr ""
+
+#: bt_cost_calculator.php:1126 bt_cost_calculator.php:1379
+msgid "Images for Select list"
+msgstr ""
+
+#: bt_cost_calculator.php:1137 bt_cost_calculator.php:1393
+msgid "Min Value"
+msgstr ""
+
+#: bt_cost_calculator.php:1137 bt_cost_calculator.php:1393
+msgid "Min value"
+msgstr ""
+
+#: bt_cost_calculator.php:1138 bt_cost_calculator.php:1394
+msgid "Max Value"
+msgstr ""
+
+#: bt_cost_calculator.php:1138 bt_cost_calculator.php:1394
+msgid "Max value"
+msgstr ""
+
+#: bt_cost_calculator.php:1139 bt_cost_calculator.php:1395
+msgid "Step"
+msgstr ""
+
+#: bt_cost_calculator.php:1139 bt_cost_calculator.php:1395
+msgid "Step value"
+msgstr ""
+
+#: bt_cost_calculator.php:1141 bt_cost_calculator.php:1397
+msgid "Offset"
+msgstr ""
+
+#: bt_cost_calculator.php:1141 bt_cost_calculator.php:1397
+msgid "Offset value"
+msgstr ""
+
+#: bt_cost_calculator.php:1142 bt_cost_calculator.php:1398
+msgid "Value between min and max values"
+msgstr ""
+
+#: bt_cost_calculator.php:1152 bt_cost_calculator.php:1411
+msgid "Value Off"
+msgstr ""
+
+#: bt_cost_calculator.php:1152 bt_cost_calculator.php:1411
+msgid "Value when switched off"
+msgstr ""
+
+#: bt_cost_calculator.php:1153 bt_cost_calculator.php:1412
+msgid "Value On"
+msgstr ""
+
+#: bt_cost_calculator.php:1153 bt_cost_calculator.php:1412
+msgid "Value when switched on"
+msgstr ""
+
+#: bt_cost_calculator.php:1154 bt_cost_calculator.php:1413
+msgid "Value off or value on"
+msgstr ""
+
+#: bt_cost_calculator.php:1163 bt_cost_calculator.php:1224
+#: bt_cost_calculator.php:1341
+msgid "Cost calculator container"
+msgstr ""
+
+#: bt_cost_calculator.php:1167 bt_cost_calculator.php:1263
+msgid "Cost Calculator Item (Deprecated)"
+msgstr ""
+
+#: bt_cost_calculator.php:1167
+msgid "Single cost calculator element (all in one)"
+msgstr ""
+
+#: bt_cost_calculator.php:1171 bt_cost_calculator.php:1231
+#: bt_cost_calculator.php:1345
+msgid "Cost Calculator Multiply"
+msgstr ""
+
+#: bt_cost_calculator.php:1171 bt_cost_calculator.php:1240
+#: bt_cost_calculator.php:1345
+msgid "Cost calculator multiply container"
+msgstr ""
+
+#: bt_cost_calculator.php:1175 bt_cost_calculator.php:1247
+#: bt_cost_calculator.php:1356
+msgid "Cost Calculator Group"
+msgstr ""
+
+#: bt_cost_calculator.php:1175 bt_cost_calculator.php:1256
+#: bt_cost_calculator.php:1356
+msgid "Cost calculator group container"
+msgstr ""
+
+#: bt_cost_calculator.php:1179 bt_cost_calculator.php:1278
+#: bt_cost_calculator.php:1370
+msgid "Cost Calculator Text"
+msgstr ""
+
+#: bt_cost_calculator.php:1179 bt_cost_calculator.php:1370
+msgid "Cost calculator text input"
+msgstr ""
+
+#: bt_cost_calculator.php:1183 bt_cost_calculator.php:1293
+#: bt_cost_calculator.php:1386
+msgid "Cost Calculator Select"
+msgstr ""
+
+#: bt_cost_calculator.php:1183 bt_cost_calculator.php:1386
+msgid "Cost calculator select list"
+msgstr ""
+
+#: bt_cost_calculator.php:1187 bt_cost_calculator.php:1308
+#: bt_cost_calculator.php:1404
+msgid "Cost Calculator Slider"
+msgstr ""
+
+#: bt_cost_calculator.php:1187 bt_cost_calculator.php:1404
+msgid "Cost calculator slider"
+msgstr ""
+
+#: bt_cost_calculator.php:1191 bt_cost_calculator.php:1323
+#: bt_cost_calculator.php:1419
+msgid "Cost Calculator Switch"
+msgstr ""
+
+#: bt_cost_calculator.php:1191 bt_cost_calculator.php:1419
+msgid "Cost calculator switch checkbox"
+msgstr ""
+
+#: bt_cost_calculator.php:1271
+msgid "Cost calculator item"
+msgstr ""
+
+#: bt_cost_calculator.php:1286
+msgid "Cost calculator text control"
+msgstr ""
+
+#: bt_cost_calculator.php:1301
+msgid "Cost calculator select control"
+msgstr ""
+
+#: bt_cost_calculator.php:1316
+msgid "Cost calculator slider control"
+msgstr ""
+
+#: bt_cost_calculator.php:1331
+msgid "Cost calculator switch control"
+msgstr ""
+
+#: bt_cost_calculator.php:1424
+msgid "HTML"
+msgstr ""
+
+#: bt_cost_calculator.php:1426
+msgid "Cost Calculator Raw HTML"
+msgstr ""
+
+#: bt_cost_calculator.php:1426
+msgid "Cost calculator raw HTML"
+msgstr ""
+
+#: bt_cost_calculator.php:1431
+msgid "Top Spacing"
+msgstr ""
+
+#: bt_cost_calculator.php:1433 bt_cost_calculator.php:1444
+msgid "No spacing"
+msgstr ""
+
+#: bt_cost_calculator.php:1434 bt_cost_calculator.php:1445
+msgid "Extra small"
+msgstr ""
+
+#: bt_cost_calculator.php:1435 bt_cost_calculator.php:1446
+msgid "Small"
+msgstr ""
+
+#: bt_cost_calculator.php:1436 bt_cost_calculator.php:1447
+msgid "Normal"
+msgstr ""
+
+#: bt_cost_calculator.php:1437 bt_cost_calculator.php:1448
+msgid "Medium"
+msgstr ""
+
+#: bt_cost_calculator.php:1438 bt_cost_calculator.php:1449
+msgid "Large"
+msgstr ""
+
+#: bt_cost_calculator.php:1439 bt_cost_calculator.php:1450
+msgid "Extra large"
+msgstr ""
+
+#: bt_cost_calculator.php:1442
+msgid "Bottom Spacing"
+msgstr ""
+
+#: bt_cost_calculator.php:1453
+msgid "Border Style"
+msgstr ""
+
+#: bt_cost_calculator.php:1455
+msgid "None"
+msgstr ""
+
+#: bt_cost_calculator.php:1456
+msgid "Solid"
+msgstr ""
+
+#: bt_cost_calculator.php:1457
+msgid "Dotted"
+msgstr ""
+
+#: bt_cost_calculator.php:1458
+msgid "Dashed"
+msgstr ""
+
+#: bt_cost_calculator.php:1465
+msgid "Cost Calculator Separator"
+msgstr ""
+
+#: bt_cost_calculator.php:1465
+msgid "Cost calculator separator"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:79
+msgid "Toggle"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:80
+msgid "Add"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:81
+#: bold-builder-light/class-bt-bb-light-list-table.php:163
+msgid "Edit"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:82
+msgid "Edit Content"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:83
+msgid "Clone"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:84
+#: bold-builder-light/class-bt-bb-light-list-table.php:128
+#: bold-builder-light/class-bt-bb-light-list-table.php:174
+msgid "Delete"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:85
+msgid "Layout error!"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:86
+msgid "Add Element"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:87
+msgid "Select Layout"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:90
+msgid "Copy"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:91
+msgid "Copy +"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:92
+#: bold-builder-light/bold-builder-light.php:198
+msgid "Paste"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:93
+msgid "Export"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:94
+msgid "Import"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:95
+msgid "Not allowed!"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:96
+msgid "Manage Clipboard"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:97
+msgid "Filter..."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:98
+msgid "Shortcode Mapper"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:99
+msgid "Insert Mapping"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:100
+#: bold-builder-light/bold-builder-light.php:202
+#: bold-builder-light/bold-builder-light.php:482
+msgid "Save"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:101
+msgid "Switch Editor"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:102
+msgid "Custom CSS"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:103
+msgid "Are you sure you want to switch editor?"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:104
+msgid "General"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:195
+msgid "Undo"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:196
+msgid "Redo"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:200
+msgid "Clipboard Manager"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:270
+#: bold-builder-light/bold-builder-light.php:433
+msgid "Edit "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:278
+#: bold-builder-light/bold-builder-light.php:431
+msgid "Add New "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:279
+#: bold-builder-light/bold-builder-light.php:387
+msgid "Add New"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:293
+msgid "Untitled"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:341
+msgid "You are not allowed to delete posts."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:392
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:401
+msgid "Search"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:451
+msgid "Enter title here"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:460
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:474
+msgid "Status"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:492
+msgid "Info"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:495
+msgid "Home page"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:496
+msgid "Documentation"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:497
+msgid "Support"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:563
+msgid "Post created."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:565
+msgid "Post saved."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:567
+msgid "Post deleted."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:569
+msgid "Posts deleted."
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:17
+msgid "Title"
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:18
+msgid "Shortcode"
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:19
+msgid "Author"
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:20
+msgid "Date"
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:153
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:172
+msgid ""
+"You are about to delete this post.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:222
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:232
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: bold-builder-light/class-bt-bb-light-list-table.php:234
+msgid "Y/m/d"
+msgstr ""

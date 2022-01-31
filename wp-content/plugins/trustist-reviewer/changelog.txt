@@ -1,0 +1,22 @@
+== Changelog ==
+
+= 2.0.0 =
+
+* Release Date - 16 Jan 2019
+
+**Plugin Improvements**
+
+* Complete re-write of plugin
+* Uses new TRUSTist API
+* Extra customisation features
+* Easier to use
+
+**Bug Fixes**
+
+= 1.0.0 =
+
+* Release Date - 15 May 2017
+* Initial release of the plugin
+* Plugin provides widget shortcode and options to place the widget in the footer or top right of the page.
+
+**Bug Fixes**

@@ -1,0 +1,107 @@
+/*
+ Theme Name:   Wheelco Child
+ Theme URI:    http://wheelco.bold-themes.com
+ Description:  Wheelco child theme
+ Author:       BoldThemes
+ Author URI:   http://bold-themes.com
+ Template:     wheelco
+ Version:      1.0.0
+ Tags:         one-column, right-sidebar, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready
+ Text Domain:  wheelco-child
+*/
+
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+.btLogoArea {
+	padding: 25px;
+    background: #fff;
+}
+img.btMainLogo {
+    width: 300px !important;
+    height: auto !important;
+}
+.btAccentDarkHeader .topBar{
+	background-color: #808080 !important;
+}
+.topTools .btIconWidget.btAccentIconWidget .btIconWidgetIcon {
+	font-size: 1.3em !important;
+}
+.btAccentDarkHeader .mainHeader .topTools .btIconWidget.btAccentIconWidget .btIconWidgetContent .btIconWidgetTitle, .btAccentDarkHeader .btVerticalHeaderTop .topTools .btIconWidget.btAccentIconWidget .btIconWidgetContent .btIconWidgetTitle {
+	font-size: 1.3em !important;
+}
+.btAccentDarkHeader .mainHeader .topTools .btIconWidget.btAccentIconWidget .btIconWidgetContent .btIconWidgetText, .btAccentDarkHeader .btVerticalHeaderTop .topTools .btIconWidget.btAccentIconWidget .btIconWidgetContent .btIconWidgetText {
+	font-size: 1.3em !important;
+}
+.btAccentDarkHeader .btBelowLogoArea{
+	background-color: #323232 !important;
+}
+.btAccentDarkHeader .btBelowLogoArea a:hover{
+	color: #f85012 !important;
+}
+.bt_bb_color_scheme_3.bt_bb_style_borderless.bt_bb_service:hover .bt_bb_icon_holder {
+	color: #f85012 !important;
+}
+.bt_bb_style_borderless.bt_bb_size_small.bt_bb_service .bt_bb_icon_holder {
+	color: #f85012 !important;
+}
+.btAccentDarkHeader .btPreloader .animation > div:first-child, .btLightAccentHeader .btPreloader .animation > div:first-child, .btTransparentLightHeader .btPreloader .animation > div:first-child {
+	background: #f5f5f5 !important;
+}
+.btPreloader .animation .preloaderLogo {
+    height: 50px !important;
+}
+
+@media only screen and (max-width: 768px) {
+  	.btLogoArea {
+		padding: 0px;
+	    background: #f5f5f5;
+	}
+	.btAccentDarkHeader .mainHeader, .btAccentDarkHeader .btVerticalHeaderTop {
+	    background-color: #f5f5f5 !important;
+	    padding-top:15px !important;
+	}
+	.btTransparentLightHeader .btVerticalMenuTrigger .bt_bb_icon .bt_bb_icon_holder:before, .btAccentDarkHeader .btVerticalMenuTrigger .bt_bb_icon .bt_bb_icon_holder:before, .btLightAccentHeader .btVerticalMenuTrigger .bt_bb_icon .bt_bb_icon_holder:before, .btHasAltLogo .btVerticalMenuTrigger .bt_bb_icon .bt_bb_icon_holder:before{
+		border-top-color: #000 !important;
+	}
+	.btTransparentLightHeader .btVerticalMenuTrigger .bt_bb_icon:before, .btAccentDarkHeader .btVerticalMenuTrigger .bt_bb_icon:before, .btLightAccentHeader .btVerticalMenuTrigger .bt_bb_icon:before, .btHasAltLogo .btVerticalMenuTrigger .bt_bb_icon:before, .btTransparentLightHeader .btVerticalMenuTrigger .bt_bb_icon:after, .btAccentDarkHeader .btVerticalMenuTrigger .bt_bb_icon:after, .btLightAccentHeader .btVerticalMenuTrigger .bt_bb_icon:after, .btHasAltLogo .btVerticalMenuTrigger .bt_bb_icon:after {
+		border-top-color: #000 !important;
+	}
+	img.btMainLogo {
+	    width: 210px !important;
+	    height: auto !important;
+	    vertical-align: middle;
+	    align-items: center;
+	    display: flex !important;
+	    margin: auto 0px !important;
+	}
+	.btVerticalMenuTrigger .bt_bb_icon{
+		margin: 6px 0 !important;
+	}
+	.btLogoArea .logo{
+		float: left !important;
+	}
+	.btLogoArea .logo img.btAltLogo {
+	    display: none !important;
+	}
+	.mobile_size .bt_bb_headline_subheadline {
+    font-size: 1.5em !important;
+}
+}
+.bt_bb_accordion_item_title:after {
+    background: #f85012 !important;
+}
+span.bt_bb_headline_superheadline {
+    display: none !important;
+}
+.bt_bb_dash_bottom.bt_bb_headline .bt_bb_headline_content:after {
+    border-color: #f85012 !important;
+}
+/*section.bt_bb_section.gutter.bt_bb_vertical_align_top.btPageHeadline.bt_bb_background_image.bt_bb_background_overlay_dark_solid.bt_bb_parallax.btDarkSkin {
+    background-position: top !important;
+	height:400px !important;
+}*/
+section.btComments.gutter {
+    display: none;
+}
+
