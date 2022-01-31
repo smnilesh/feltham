@@ -29,7 +29,7 @@ define( 'DB_USER', 'animsm_feltham' );
 define( 'DB_PASSWORD', '4BH,~I@0N.GU' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'searchmantrainc.fatcowmysql.com' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
